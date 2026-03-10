@@ -1,0 +1,36 @@
+body{
+font-family: Arial;
+background:#0f172a;
+color:white;
+text-align:center;
+padding:40px;
+}
+
+.container{
+max-width:600px;
+margin:auto;
+background:#1e293b;
+padding:30px;
+border-radius:10px;
+}
+
+button{
+display:block;
+width:100%;
+margin:10px 0;
+padding:12px;
+font-size:16px;
+border:none;
+border-radius:6px;
+cursor:pointer;
+background:#3b82f6;
+color:white;
+}
+
+button:hover{
+background:#2563eb;
+}
+
+#next{
+background:#16a34a;
+}
